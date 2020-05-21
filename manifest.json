@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Amazon.co.jp検索",
+    "version": "1.0",
+    "description": "選択したテキストをAmazon.co.jpで検索します。",
+    "permissions": ["contextMenus", "tabs"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
